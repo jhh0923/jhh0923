@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jhh0923
-- 👀 I’m interested in autopilot
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects based on python
+- 👀 I’m interested in C++ & python
+- 💞️ I’m looking to collaborate on projects based on python or C++
 - 📫 huihuajiang@163.com
 
 <!---
